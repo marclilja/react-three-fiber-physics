@@ -1,2 +1,2 @@
-# react-three-fiber-physics-template
+# react-three-fiber-physics
 Created with CodeSandbox
